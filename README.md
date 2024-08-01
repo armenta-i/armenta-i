@@ -12,7 +12,7 @@ Hi there 👋. I am a 3rd-year student pursuing a Bachelor's degree in Computer 
     <a href="mailto:i_armenta@outlook.com">
         <img alt="Personal Email" src="https://custom-icon-badges.demolab.com/badge/-i__armenta@outlook.com-red?style=for-the-badge&logo=mention&logoColor=white">
     </img>
-    <a>
+    <a href="https://github.com/armenta-i?tab=repositories">
         <img alt="repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-purple?style=for-the-badge&logoColor=white&logo=repo">
     </a>
 </p>
