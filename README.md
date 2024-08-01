@@ -32,8 +32,8 @@ Hi there 👋. I am a 3rd-year student pursuing a Bachelor's degree in Computer 
 <br>         
 
 ## 📊 Github Stats
-<img height=150 align="left" src="https://github-readme-stats.vercel.app/api?username=armenta-i" />
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armenta-i&layout=compact&langs_count=8&card_width=320" />
+<img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=armenta-i" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armenta-i&layout=compact&langs_count=8&card_width=320" />
 
 
 ## 🏆 Github Trophies 🏆 
