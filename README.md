@@ -24,16 +24,20 @@ Hi there 👋. I am a 3rd-year student pursuing a Bachelor's degree in Computer 
 <img align="left" alt="Css" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 <img align="left" alt="Python" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg">
 <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg">
-<img align="left" alt="Markdown" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg">
 <img align="left" alt="git" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 <img align="left" alt="Bash" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">    
 <img align="left" alt="Vscode" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-          
+<img align="left" alt="Github" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align="left" alt="Markdown" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg">
+<br>         
 
 ## 📊 Github Stats
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=armenta-i" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armenta-i&layout=compact&langs_count=8&card_width=320" />
+<img height=150 align="left" src="https://github-readme-stats.vercel.app/api?username=armenta-i" />
+<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armenta-i&layout=compact&langs_count=8&card_width=320" />
 
+
+## 🏆 Github Trophies 🏆 
+[![trophy](https://github-profile-trophy.vercel.app/?username=armenta-i&theme=juicyfresh&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 #
 <!-- Profile Views -->
 <a href="https://visitcount.itsvg.in">
