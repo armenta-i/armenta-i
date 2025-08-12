@@ -4,7 +4,7 @@
  
 
  ## About me
-Hi there 👋. I am a 3rd-year student pursuing a Bachelor's degree in Computer Science at The University of Texas at El Paso. I'm a passionate learner who's always eager to explore and work across various technologies and domains. Currently, I am focusing on Frontend Development and Animations.
+Hi there 👋. I am a Senior student pursuing a Bachelor's degree in Computer Science at The University of Texas at El Paso. I'm a passionate learner who's always eager to explore and work across various technologies and domains. Currently, I am focusing on Frontend Development and Animations.
 
 <p>
     <a href="https://www.linkedin.com/in/iarmenta/">
