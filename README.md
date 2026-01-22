@@ -46,6 +46,6 @@ Hi there 👋. I am a Senior student pursuing a Bachelor's degree in Computer Sc
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12185993708&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ff0000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- Profile Views -->
-<a href="https://visitcount.itsvg.in">
+<!-- <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=armenta-i&label=Profile%20Views&color=6&icon=3&pretty=true" />
-</a>
+</a> -->
