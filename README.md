@@ -32,12 +32,13 @@ Hi there 👋. I am a Senior student pursuing a Bachelor's degree in Computer Sc
 <img align="left" alt="Markdown" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg">
 <br>         
 
+<!--
 ## 📊 Github Stats
 ![Armenta's GitHub stats](https://github-readme-stats.vercel.app/api?username=armenta-i)
 
 ## 🏆 Github Trophies 🏆 
 <img src="https://github-profile-trophy.vercel.app/?username=armenta-i&theme=onedark" width="100%" />
-
+-->
 
 ## 🙋‍♂️ More About Me
 
