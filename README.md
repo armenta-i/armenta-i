@@ -33,12 +33,10 @@ Hi there 👋. I am a Senior student pursuing a Bachelor's degree in Computer Sc
 <br>         
 
 ## 📊 Github Stats
-![Armenta's GitHub stats](https://github-readme-stats.vercel.app/api?username=armenta-i)](https://github.com/anuraghazra/github-readme-stats)
-![trophy](https://github-profile-trophy.vercel.app/?username=armenta-i&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Armenta's GitHub stats](https://github-readme-stats.vercel.app/api?username=armenta-i)(https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 Github Trophies 🏆 
-[![trophy](https://github-profile-trophy.vercel.app/?username=armenta-i&theme=juicyfresh&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=armenta-i&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 #
 
 ## 🙋‍♂️ More About Me
